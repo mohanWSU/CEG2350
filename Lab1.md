@@ -33,5 +33,12 @@
 
 ### Part 3 Answers
 
-1. 
-2. 
+1.  Write the URL to your GitHub repository setup in GitHub classrooms. (1 pt)
+
+   
+
+2. Write the command you used to clone your repository. (2 pts)
+
+   <span style="color:yellow"> *git clone https://github.com/mohanWSU/CEG2350*</span>
+
+    
